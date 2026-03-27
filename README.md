@@ -1,5 +1,11 @@
-## Hi there 👋
-
+Hi there, I'm Khyati Singh 👋
+I am a first-year B.Tech student specialising in Computer Science and Engineering (CSE Core) at VIT Bhopal University, Bhopal, Madhya Pradesh. I joined VIT Bhopal in 2025 and I am currently building my foundation in programming, problem-solving, and digital skills.
+I am passionate about technology and its ability to solve real-world problems. Over the next four years, I hope to develop strong skills in Python programming, Artificial Intelligence, Machine Learning, and Web Development. I believe that consistent learning and hands-on projects are the best way to grow as a developer, and this GitHub profile is where I will document that journey from day one.
+So far, I have built an AI Adaptive Study Material Recommender System as part of my first-year AI/ML coursework. The project uses Python and Pandas to recommend study materials based on subject, difficulty, and type, and it learns from user ratings to improve future recommendations. I have also completed a Digital Literacy Portfolio as part of my CSE0001 course, which helped me understand professional online presence, email etiquette, cybercrime awareness, and the responsible use of digital tools.
+Outside academics, I enjoy exploring new technologies, taking online challenges on HackerRank, and learning through platforms like Kaggle. I am always open to connecting with fellow students, mentors, and professionals who share a curiosity for technology.
+📧 Reach me at: khyati.25bce11336@vitbhopal.ac.in
+🔗 LinkedIn: www.linkedin.com/in/khyati-singh-24676a398
+📍 VIT Bhopal University | B.Tech CSE Core | Batch of 2029
 <!--
 **khyatisingh16032008-sys/khyatisingh16032008-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
